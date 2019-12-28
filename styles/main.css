@@ -67,9 +67,9 @@ a:hover {
   color: #1976d2;
 }
 
-img {
+/* img {
   display: inline-block;
-}
+} */
 
 strong, b, .text-bold {
   font-weight: bold;
