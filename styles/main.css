@@ -1,0 +1,182 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html, body {
+  font-size: 16px;
+  font-family: Source Sans Pro, Arial, sans-serif;
+  color: #fff;
+  background: #263238;
+}
+
+h1, .h1 {
+  font-size: 3.8rem;
+  font-family: Montserrat, Verdana, Arial, sans-serif;
+  margin-bottom: 0.5rem;
+  color: #ffff8d;
+}
+
+h2, .h2 {
+  font-size: 3rem;
+  font-family: Montserrat, Verdana, Arial, sans-serif;
+  margin-bottom: 0.5rem;
+  color: #ffff8d;
+}
+
+h3, .h3 {
+  font-size: 2.2rem;
+  font-family: Montserrat, Verdana, Arial, sans-serif;
+  margin-bottom: 0.5rem;
+  color: #ffff8d;
+}
+
+h4, .h4 {
+  font-size: 2rem;
+  font-family: Montserrat, Verdana, Arial, sans-serif;
+  margin-bottom: 0.5rem;
+  color: #ffff8d;
+}
+
+h5, .h5 {
+  font-size: 1.5rem;
+  font-family: Montserrat, Verdana, Arial, sans-serif;
+  margin-bottom: 0.5rem;
+  color: #ffff8d;
+}
+
+h6, .h6 {
+  font-size: 1rem;
+  font-family: Montserrat, Verdana, Arial, sans-serif;
+  margin-bottom: 0.5rem;
+  color: #ffff8d;
+}
+
+a, a:visited, a:focus {
+  color: #2196f3;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1976d2;
+}
+
+img {
+  display: inline-block;
+}
+
+strong, b, .text-bold {
+  font-weight: bold;
+}
+
+em, .text-italic {
+  font-style: italic;
+}
+
+.font-heading {
+  font-family: Montserrat, Verdana, Arial, sans-serif;
+}
+
+.font-body {
+  font-family: Source Sans Pro, Arial, sans-serif;
+}
+
+.font-monospace {
+  font-family: Source Code Pro, Courier New, monospace;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-blue {
+  color: #2196f3;
+}
+
+.bg-blue {
+  background-color: #2196f3;
+}
+
+.text-gray {
+  color: #9e9e9e;
+}
+
+.bg-gray {
+  background-color: #9e9e9e;
+}
+
+.text-amber {
+  color: #ffc107;
+}
+
+.bg-amber {
+  background-color: #ffc107;
+}
+
+.text-yellow {
+  color: #ffeb3b;
+}
+
+.bg-yellow {
+  background-color: #ffeb3b;
+}
+
+.text-black {
+  color: #000;
+}
+
+.bg-black {
+  background-color: #000;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.text-muted {
+  color: #9e9e9e;
+  font-style: italic;
+}
+
+html, body, main {
+  height: 100%;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mb {
+  margin-bottom: 1.5rem;
+}
+
+.mt {
+  margin-top: 3rem;
+}
+
+.img-logo {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  height: 10rem;
+}
